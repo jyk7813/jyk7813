@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=150&section=header&textHatae Ju&fontSize=90&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=150&section=header&textHatae_Ju&fontSize=90&animation=twinkling)
 
 
 <p align="center">👋 반갑습니다! 주하태 입니다. 👋 </br></br> </p>
