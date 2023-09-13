@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=150&section=header&text=Moon-Taein&fontSize=90&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=150&section=header&textHatae Ju&fontSize=90&animation=twinkling)
 
 
 <p align="center">👋 반갑습니다! 주하태 입니다. 👋 </br></br> </p>
@@ -6,7 +6,7 @@
 <p></p>
 <p align="center">😄 Techs that i`ve used at least once 😄 </br></br> </p>
 
-<p align="center">🎨<a href="https://moon-taein.github.io/"> 포트폴리오 </a>🎨</br></br> </p>
+<p align="center">🎨<a href=""> 포트폴리오 </a>🎨</br></br> </p>
 
 <div align="center">
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
