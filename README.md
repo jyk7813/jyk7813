@@ -1,4 +1,4 @@
-## Hi, 👋  I'm <a href="https://nsddd.top" target="_blank">🐻Xinwei Xiong⏱️</a> <sup><a href="https://nsddd.top" />🔊</a></sup>
+## Hi, 👋  I'm <a href="" target="_blank">🐻Ju Hatae⏱️</a> <sup><a href="" />🔊</a></sup>
 
 
 <h2 align="center"><em>🌟 You never lose, either you win or you learn!<em> 💪</h2>
