@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=150&section=header&textHatae-Ju&fontSize=90&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=150&section=header&text=Hatae-Ju&fontSize=90&animation=twinkling)
 
 
 <p align="center">👋 반갑습니다! 주하태 입니다. 👋 </br></br> </p>
@@ -24,6 +24,7 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
 <img src="https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
+<img src="https://img.shields.io/badge/apachemaven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white">
 
 </div>
 <div align="center">
